@@ -3,4 +3,5 @@ Github Trailhead
 
 HELLO WORLD!
 
-SQUIRREL
+BUFFALO!
+
